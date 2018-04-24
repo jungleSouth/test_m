@@ -1,16 +1,8 @@
 {"posts":[ {
 "id":1,
-"name":"vasja",
-"profilePhone" : [
-"097 777 77 77", "093 333 33 33"
-],
-  "email":"my_email@nmail.com"
-,
-  "clientId19":19,
-   "src":"0633189775" 
-},
-{"id":2,
-"name":"sasha"}
+"name":"vasja"
+}
+
 
 
 ]
